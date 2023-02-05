@@ -1,5 +1,5 @@
 # Websocket
-Communicate with a socket.io server through PocketMine-MP server.<br>
+Communicate with a Socket.IO server through PocketMine-MP server.<br>
 
 ### Usage
 Clone the repo<br>
