@@ -1,6 +1,12 @@
 # Websocket
 Communicate with a Socket.IO server through PocketMine-MP server.<br>
-
+#### Client:
+* PocketMine-MP
+* Elephant.IO
+* Socket.IO
+#### Server:
+* Node.JS
+* Socket.IO
 ### Usage
 Clone the repo<br>
 Modify `Main.php` file with the websocket server ip and add whatever you'd like<br>
